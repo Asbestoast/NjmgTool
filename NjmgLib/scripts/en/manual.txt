@@ -1,0 +1,49 @@
+Nekojara Instruction Manual (Abbreviated)
+
+--------------------------------------------------------------------------------
+Table of Contents
+
+1 Item List
+2 Magic List
+
+--------------------------------------------------------------------------------
+1 Item List
+
+Scale..........Restore 1 HP
+Berry..........Restore HP to maximum
+Herb...........Cure "poison" status effect
+Whisker........Heal 15~20 MP
+H.Gourd........Steal enemy HP
+M.Gourd........Steal enemy MP
+Cat Doll.......Take damage in place of the protagonist
+Burr Cap.......Can reflect enemy damage
+Maiden💛........Causes something unknown to happen
+
+"Steward Plaza" Items
+Power Ball.....Restore HP and MP
+Save Ball......Save game progress
+
+--------------------------------------------------------------------------------
+2 Magic List
+
+Offensive Magic
+Gami...........Hurl fireballs at a single enemy
+Homira.........Strike all enemies with freezing cold
+Larsmoon.......Confuse all enemies
+Gamira.........Strike all enemies with a vortex of fire
+Dehomi.........Wrap all enemies in a freezing blizzard
+Stape..........Stop all enemies in time
+Somira.........Strike all enemies with lightning
+Desomi.........Strike a single enemy with lightning
+
+Restorative Magic
+Revar..........Teleport to a favorite place
+S.Avuja........Restore HP
+M.Avuja........Restore more HP than S.Avuja
+Poisona........Cure "poison" status effect
+L.Avuja........Restore HP to maximum
+
+Defensive Magic
+Silent.........Prevent all enemies from casting magic
+Guard..........Increase defense
+Muguard........Can reflect enemy attacks
